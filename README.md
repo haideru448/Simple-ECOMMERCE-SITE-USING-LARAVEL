@@ -1,2 +1,2 @@
-# Simple-ECOMMERCE-SITE-USING-LARAVEL
-This is a simple ecommerce based site using Laravel
+# Web-Pages-USING-LARAVEL
+Simple Web pages created using Laravel
