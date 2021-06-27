@@ -1,2 +1,2 @@
 # Web-Pages-USING-LARAVEL
-Simple Web pages created using Laravel
+ Web pages created using Laravel
